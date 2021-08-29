@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+jinja2 = "*"
+flask-sqlalchemy = "*"
+tweepy = "*"
+spacy = "*"
+python-dotenv = "*"
+scikit-learn = "*"
+google-api-python-client = "*"
+sklearn = "*"
+
+[requires]
+python_version = "3.8"
